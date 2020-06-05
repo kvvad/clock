@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(104, 231, 115);
+}
+
+.clock {
+    position: relative;
+    text-align: center;
+    top: 50%;
+}
+
+#main-clock {
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
